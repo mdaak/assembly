@@ -1,0 +1,32 @@
+.content_bg {
+  /* margin: 50px 0; */
+  background-image: url("../public/header-bg.jpg");
+  height: 600px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.hero_content {
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  color: rgb(255, 255, 255);
+  height: 100%;
+  text-align: center;
+  padding-top: 20%;
+}
+
+.hero_button {
+  padding-top: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hero_button button {
+  background-color: #2551a8;
+  color: white;
+  display: flex;
+  padding: 20px;
+  border-radius: 3px;
+  border: none;
+}

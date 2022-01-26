@@ -11,6 +11,13 @@
   justify-content: center;
   align-items: center;
 }
+.content_bg {
+  margin: 50px 0;
+  background-image: url("../public/header-bg.jpg");
+  height: 500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 
 .footer {
   display: flex;
