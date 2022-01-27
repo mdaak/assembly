@@ -13,11 +13,11 @@
   color: rgb(255, 255, 255);
   height: 100%;
   text-align: center;
-  padding-top: 20vh;
+  padding-top: 43vh;
 }
 
 .hero_button {
-  padding-top: 100px;
+  padding-top: 10vh;
   display: flex;
   justify-content: center;
   align-items: center;
